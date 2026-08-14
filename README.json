@@ -1,0 +1,281 @@
+{
+  "items": [
+    {
+      "description": "These products rule the fediverse.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Synapse",
+          "description": "Synapse is an open-source Matrix homeserver written in python and twisted",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-26T15:47:23Z",
+            "owner": "matrix-org",
+            "repo": "synapse",
+            "stars": 12104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dendrite",
+          "description": "Dendrite is a open-source second-generation Matrix homeserver written in Go!",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-11-25T10:18:03Z",
+            "owner": "matrix-org",
+            "repo": "dendrite",
+            "stars": 5630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Takahē",
+          "description": "A beta Fediverse server for microblogging/\"toots\", with support for multiple domains and multiple identities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-28T13:32:13Z",
+            "owner": "jointakahe",
+            "repo": "takahe",
+            "stars": 1174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Activity Relay",
+          "description": "Activity Relay is a powerful customizable ActivityPub relay server written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T14:29:19Z",
+            "owner": "yukimochi",
+            "repo": "Activity-Relay",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shuttlecraft",
+          "description": "an \"easy\" way to participate in the ActivityPub \"Fediverse\" and other indie web protocols like RSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-28T04:34:52Z",
+            "owner": "benbrown",
+            "repo": "shuttlecraft",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pub",
+          "description": "an ActivityPub host indented for a single actor. To interact with ActivityPub, pub implements the Mastodon api for use with various apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-03-31T08:37:16Z",
+            "owner": "davecheney",
+            "repo": "pub",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cobalt",
+          "description": "Ruby Video platform by same owner as Mastodon (hasn't been updated in at least 5 years)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-10-31T21:23:43Z",
+            "owner": "Gargron",
+            "repo": "cobalt",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soundstorm",
+          "description": "Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-07-19T15:08:26Z",
+            "owner": "weathermen",
+            "repo": "soundstorm",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social Relay",
+          "description": "Social Relay is a Public post relay for Diaspora, writin in python. (Archived Project)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-30T20:15:59Z",
+            "owner": "jaywink",
+            "repo": "social-relay",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActivityPub for xwiki",
+          "description": "An ActivityPub plugin for xwiki",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-27T08:02:13Z",
+            "owner": "xwiki-contrib",
+            "repo": "application-activitypub",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Mastodon",
+          "description": "Ruby based twitter clone - Follow friends and discover new ones among more than 2M people. Publish anything you want: links, pictures, text, video. All on a platform that is community-owned and ad-free.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hometown",
+              "description": "a lightweight fork of Mastodon that supports local-only toots and more content types",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-07-27T15:08:00Z",
+                "owner": "hometown-fork",
+                "repo": "hometown",
+                "stars": 819
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "GotoSocial",
+          "description": "fast and efficient ActivityPub server written in Golang, still in alpha",
+          "children": []
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "The fediverse is made up of a bunch of protocols. Below are the most used ones.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Friendica",
+          "description": "The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T22:50:32Z",
+            "owner": "friendica",
+            "repo": "friendica",
+            "stars": 1682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DFRN",
+          "description": "The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T22:50:32Z",
+            "owner": "friendica",
+            "repo": "friendica",
+            "stars": 1682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PubSubHubbub",
+          "description": "PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-30T19:49:21Z",
+            "owner": "pubsubhubbub",
+            "repo": "PubSubHubbub",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pubcast",
+          "description": "An experimental ActivityPub based podcasting platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-03-07T02:41:30Z",
+            "owner": "pubcast",
+            "repo": "pubcast",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pubgate",
+          "description": "Lightweight (Gotta Go Fast) ActivityPub federator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T03:14:56Z",
+            "owner": "autogestion",
+            "repo": "pubgate",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Protocols"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Activitypub"
+    },
+    {
+      "description": "TODO",
+      "items": [],
+      "title": "Meetups"
+    },
+    {
+      "description": "TODO",
+      "items": [],
+      "title": "Slides"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:17:55.602Z",
+    "original_repository": "emilebosch/awesome-fediverse",
+    "original_repository_sha": "229d1fe2d8721c27dae0706d709a6314caffa593",
+    "enhanced_repository": "enhansome/enhansome-fediverse",
+    "enhanced_repository_description": null,
+    "title": "Awesome Fediverse 🛰✨😎 with stars"
+  }
+}

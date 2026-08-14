@@ -1,1 +1,141 @@
-# enhansome-fediverse
+# Awesome Fediverse 🛰✨😎 with stars
+
+A curated, collaborative list of awesome Fediverse resources for getting ramped up in the Fediverse.
+
+## What's the fediverse?
+
+The Fediverse is a network of social networking [applications](#applications) that communicate with each other via a set of [protocols](#protocols). The servers hosting an application are called a *node* or instance and can host multiple users.
+
+Here are some resources to get you started:
+
+* [A friendly introduction to the fediverse](https://medium.com/@VirtualAdept/a-friendly-introduction-to-the-fediverse-5b4ef3f8ed0e)
+* [Wikipedia](https://en.wikipedia.org/wiki/Fediverse)
+
+## Applications
+
+These products rule the fediverse.
+
+* [Synapse](https://github.com/matrix-org/synapse/) ⚠️ Archived - Synapse is an open-source Matrix homeserver written in python and twisted
+* [Dendrite](https://github.com/matrix-org/dendrite/) ⚠️ Archived - Dendrite is a open-source second-generation Matrix homeserver written in Go!
+* [Takahē](https://github.com/jointakahe/takahe) ⭐ 1,174 | 🐛 83 | 🌐 Python | 📅 2024-08-28 - A *beta* Fediverse server for microblogging/"toots", with support for multiple domains and multiple identities
+* [Activity Relay](https://github.com/yukimochi/Activity-Relay) ⭐ 331 | 🐛 19 | 🌐 Go | 📅 2026-07-28 - Activity Relay is a powerful customizable ActivityPub relay server written in Go.
+* [Shuttlecraft](https://github.com/benbrown/shuttlecraft) ⭐ 271 | 🐛 50 | 🌐 JavaScript | 📅 2024-05-28 - an "easy" way to participate in the ActivityPub "Fediverse" and other indie web protocols like RSS
+* [pub](https://github.com/davecheney/pub) ⚠️ Archived - an ActivityPub host indented for a single actor. To interact with ActivityPub, pub implements the Mastodon api for use with various apps.
+* [Cobalt](https://github.com/Gargron/cobalt) ⭐ 95 | 🐛 2 | 🌐 Ruby | 📅 2017-10-31 - Ruby Video platform by same owner as Mastodon (hasn't been updated in at least 5 years)
+* [Soundstorm](https://github.com/weathermen/soundstorm.git) ⚠️ Archived Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
+* [Social Relay](https://github.com/jaywink/social-relay) ⚠️ Archived - Social Relay is a Public post relay for Diaspora, writin in python. (Archived Project)
+* [ActivityPub for xwiki](https://github.com/xwiki-contrib/application-activitypub) ⭐ 19 | 🐛 4 | 🌐 Java | 📅 2026-07-27 - An ActivityPub plugin for xwiki
+* [Mastodon](https://joinmastodon.org) - Ruby based twitter clone - Follow friends and discover new ones among more than 2M people. Publish anything you want: links, pictures, text, video. All on a platform that is community-owned and ad-free.
+  * [Hometown](https://github.com/hometown-fork/hometown) ⭐ 819 | 🐛 120 | 🌐 Ruby | 📅 2026-07-27 - a lightweight fork of Mastodon that supports local-only toots and more content types
+  * [Mastodon Glitch Edition (glitch-soc)](https://glitch-soc.github.io/docs/) - a Mastodon fork with additional features such as rich text formatting and local-only toots
+* [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
+* [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software.
+  * [Sepia Search](https://sepiasearch.org/) - The offical search engine software for peertube writin in typescript and vuejs, by framasoft
+* [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone.
+* [Movim](https://movim.eu/) - Social Network based on XMPP
+* [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
+* [Pleroma](https://pleroma.social/) - Elixir based Twitter clone. The server side is more lightweight than Mastodon, and the UI is more customizable too.
+  * [Akkoma](https://akkoma.social/) - a Pleroma fork with more features and a faster pace of development
+* [Diaspora](https://diasporafoundation.org/) - Ruby based Facebook clone.
+* [WriteFreely](https://writefreely.org/) - Go based publishing platform. WriteFreely is free and open source software for starting a minimalist, federated blog — or an entire community.
+* [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
+* [Hubzilla](https://hubzilla.org/)
+* [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
+* [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
+* [ActivityPub for Drupal](https://www.drupal.org/project/activitypub) - An ActivityPub module for Drupal.
+* [Forgefed for Pagure](https://pagure.io/pagure-forgefed) - Forgefed plugin for pagure.
+* [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
+* [Kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform.
+* [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
+* [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
+* [Bookwyrm](https://joinbookwyrm.com) - a federated social network for tracking your reading, talking about books, writing reviews, and discovering what to read next
+* [Misskey](https://misskey-hub.net) - An ActivityPub Microbloging platform built with Vue
+  * [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - An enchanced Misskey Fork focusing on impoving on maintainability and behaviour, while also bringing in useful features.
+  * [FireFish](https://joinfirefish.org) - A greatly enhanced fork of Misskey with better UI/UX, security, features, and more! (Formerly known as Calckey.)
+* [Owncast](https://owncast.online/) - A single user live video streaming and chat with activetypub support for following and user verification.
+* [Pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype written in python
+* [Nextcloud](https://nextcloud.com/) - A private cloud provider with activitypub and diaspora for sharing, auth & more.
+* [Plume](https://joinplu.me/) - Plume is a rust based federated blogging engine.
+* [CastoPod](https://castopod.org/) - CastoPod is a PHP based federated podcasting platform.
+* [GNUSocial](https://www.gnusocial.rocks/) - A PHP based free-softwere social networking platform.
+* [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform
+* [Hubzilla](https://hubzilla.org/page/hubzilla/discover) - Hubzilla is a decentralized communication and publishing platform.
+* [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, written in elixir.
+* [Mobilizon](https://mobilizon.org) - Mobilizon is a fedirated event planning and group management tool by Framasoft.
+* [Pleroma Relay](https://git.pleroma.social/pleroma/relay) - Pleroma Relay is a generic LitePub message relay, writin in python.
+* [AodeRelay](https://git.asonix.dog/asonix/relay) - AodeRelay is a simple and efficient activitypub relay, writin in rust.
+* [Conduit](https://conduit.rs/) - Conduit is a simple, fast and reliable chat server powered by matrix, written in rust.
+
+## Protocols
+
+The fediverse is made up of a bunch of protocols. Below are the most used ones.
+
+* [Friendica](https://github.com/friendica/friendica/wiki/Protocol) ⭐ 1,682 | 🐛 1,449 | 🌐 PHP | 📅 2026-08-11 - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
+* [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf) ⭐ 1,682 | 🐛 1,449 | 🌐 PHP | 📅 2026-08-11  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
+* [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) ⭐ 623 | 🐛 9 | 🌐 HTML | 📅 2023-01-30 - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
+* [Pubcast](https://github.com/pubcast/pubcast) ⭐ 116 | 🐛 8 | 🌐 Go | 📅 2019-03-07 - An experimental ActivityPub based podcasting platform
+* [Pubgate](https://github.com/autogestion/pubgate) ⭐ 115 | 🐛 18 | 🌐 Python | 📅 2022-12-08 - Lightweight (Gotta Go Fast) ActivityPub federator
+* [ActivityPub](https://www.w3.org/TR/2018/REC-activitypub-20180123/) - The ActivityPub protocol is a decentralized social networking protocol based upon the \[ActivityStreams] 2.0 data format. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content.
+* [Litepub](https://litepub.social/litepub/) - LitePub is a suite of protocols which provide a federated social network. They constitute various profiles of the ActivityPub specification. It is intended that LitePub implementations provide compatibility with ActivityPub, but there are some core behavioral differences.
+* [Diaspora](https://diaspora.github.io/diaspora_federation/index.html) - The purpose of this document is to specify the communications that go on between diaspora\* servers (and other servers supporting this protocol)
+* [WebMention](https://indieweb.org/Webmention) - Webmention is a web standard for mentions and conversations across the web, a powerful building block that is used for a growing federated network of comments, likes, reposts, and other rich interactions across the decentralized social web.
+* [Zot](https://zotlabs.org/help/en-gb/developer/zot_protocol) - Zot is the revolutionary protocol that powers Hubzilla, providing communications, identity management, and access control across a fully decentralised network of independent websites, often called "the grid". The resulting platform is a robust system that supports privacy and security while enabling the kind of rich web services typically seen only in centralized, proprietary solutions.
+* [OStatus](http://ostatus.github.io/spec/OStatus%201.0%20Draft%202.html) - OStatus is a minimal specification for distributed status updates or microblogging. Many social applications can be modelled with status updates, however. Practically any software that generates RSS or Atom feeds could be OStatus-enabled. Travel networks, event invitation systems, wikis, photo-sharing systems, social news sites, social music sites, podcasting servers, blogs, version control systems, and general purpose social networks would all be candidates for OStatus use.
+* [ForgeFed](https://forgefed.org/) - ForgeFed is an ActivityPub extension set for git forges like gitea and foregejo
+* [Portable Contacts](https://web.archive.org/web/20160426223008/http://portablecontacts.net/draft-spec.html) - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web. Specifically, it seeks to create a common access pattern and contact schema that any site can provide, well-specified authentication and access rules, standard libraries that can work with any site, and absolutely minimal complexity, with the lightest possible toolchain requirements for developers.
+* [WebFinger](https://github.com/webfinger/) - WebFinger is used to discover information about people or other entities on the Internet that are identified by a URI using standard Hypertext Transfer Protocol (HTTP) methods over a secure transport. A WebFinger resource returns a JavaScript Object Notation (JSON) object describing the entity that is queried. The JSON object is referred to as the JSON Resource Descriptor (JRD).
+* [Salmon](https://en.wikipedia.org/wiki/Salmon_%28protocol%29) - The Salmon Protocol is a message exchange protocol running over HTTP designed to decentralize commentary and annotations made against newsfeed articles such as blog posts. It allows a single discussion thread to be established between the article's origin and any feed reader or "aggregator" which is subscribing to the content. Put simply, that if an article appeared on 3 sites: A (the source), B and C (the aggregates), that members of all 3 sites could see and contribute to a single thread of conversation regardless of site they were viewing from.
+* [ActivityStreams](https://www.w3.org/TR/activitystreams-core/) - This specification details the serialization of a stream of social activities using the JSON format. Activities are important in that they allow individuals to process the latest news of people and things they care about.
+  * [Original JSON Activity Streams 1.0 Specification](http://activitystrea.ms/specs/json/1.0/) which the official W3C standard utilized.
+* [Magic Signatures](https://cdn.rawgit.com/salmon-protocol/salmon-protocol/master/draft-panzer-magicsig-01.html) - This document defines a lightweight, robust mechanism for digitally signing nearly arbitrary messages, along with a simple public key infrastructure.
+* [WebSub](https://www.w3.org/TR/websub/) - WebSub provides a common mechanism for communication between publishers of any kind of Web content and their subscribers, based on HTTP web hooks. Subscription requests are relayed through hubs, which validate and verify the request. Hubs then distribute new and updated content to subscribers when it becomes available. WebSub was previously known as PubSubHubbub.
+* [Matrix](https://matrix.org/) - A open Protocol for e2ee secured, decentralised communication.
+
+## Sites
+
+* [WeDistribute](https://wedistribute.org/)
+* [Fediverse.party](http://fediverse.party/)
+* [The federation instance stats](https://the-federation.info)
+* [Fediverse.space](https://www.fediverse.space)
+* [Fediverse glossary](https://tilde.town/~petegozz/Fediverse_Glossary/)
+* [Mastodon Instance Picker](https://instances.social)
+* [Fedi.buzz Trends Monitor](https://fedi.buzz)
+
+### Resources
+
+#### Activitypub
+
+##### Talk
+
+* [Federation in social networks - Lwn.net](https://lwn.net/Articles/741218/)
+* [Wikipedia Article](https://en.wikipedia.org/wiki/ActivityPub)
+* [What is ActivityPub, and how will it change the internet?](https://web.archive.org/web/20190917160529/https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/)
+* [ActivityPub - one protocol to rule them all?](https://schub.io/blog/2018/02/01/activitypub-one-protocol-to-rule-them-all.html)
+* [An ActivityPub Philosophy](https://web.archive.org/web/20201124231343/https://cjslep.com/c/blog/an-activitypub-philosophy)
+* [On standards divisions and collaboration (or: Why can't the decentralized social web people just get along?)](http://dustycloud.org/blog/on-standards-divisions-collaboration/)
+* [ActivityPub - Final thoughts, one year later.](https://schub.io/blog/2019/01/13/activitypub-final-thoughts-one-year-later.html)
+* [From GNU social to Mastodon](https://thomask.sdf.org/blog/2018/08/19/from-gnu-social-to-mastodon.html)
+
+##### Developers
+
+* [How to verify requests - Implementing an activity inbox - Mastodon](http://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/)
+* [How to implement a basic ActivityPub server - Mastodon](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/)
+
+## Videos
+
+* [Lets chat about ActivityPub](https://www.youtube.com/watch?v=g-Fiku7KKBU)
+* [ActivityPub and the federated social networks](https://www.youtube.com/watch?v=li_usG-RmnY)
+* [Easterhegg 2019 - ActivityPub, the Fediverse, and Everything](https://www.youtube.com/watch?v=kbUEIxSN4aU)
+* [Decentralized Social Networks vs the Trolls](https://www.youtube.com/watch?v=yZoASOyfvGQ)
+
+## Meetups
+
+TODO
+
+## Slides
+
+TODO
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
