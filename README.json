@@ -14,7 +14,7 @@
             "last_commit": "2024-04-26T15:47:23Z",
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12104
+            "stars": 12101
           }
         },
         {
@@ -184,10 +184,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T22:50:32Z",
+            "last_commit": "2026-08-14T22:00:34Z",
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1682
+            "stars": 1683
           }
         },
         {
@@ -198,10 +198,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T22:50:32Z",
+            "last_commit": "2026-08-14T22:00:34Z",
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1682
+            "stars": 1683
           }
         },
         {
@@ -271,7 +271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:17:55.602Z",
+    "last_updated": "2026-08-15T04:06:06.225Z",
     "original_repository": "emilebosch/awesome-fediverse",
     "original_repository_sha": "229d1fe2d8721c27dae0706d709a6314caffa593",
     "enhanced_repository": "enhansome/enhansome-fediverse",
