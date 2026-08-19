@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22844864,
             "language": "Python",
             "last_commit": "2024-04-26T15:47:23Z",
             "owner": "matrix-org",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79585104,
             "language": "Go",
             "last_commit": "2024-11-25T10:18:03Z",
             "owner": "matrix-org",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562269750,
             "language": "Python",
             "last_commit": "2024-08-28T13:32:13Z",
             "owner": "jointakahe",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155072281,
             "language": "Go",
             "last_commit": "2026-07-28T14:29:19Z",
             "owner": "yukimochi",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570962490,
             "language": "JavaScript",
             "last_commit": "2024-05-28T04:34:52Z",
             "owner": "benbrown",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 568643617,
             "language": "Go",
             "last_commit": "2024-03-31T08:37:16Z",
             "owner": "davecheney",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108020335,
             "language": "Ruby",
             "last_commit": "2017-10-31T21:23:43Z",
             "owner": "Gargron",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 161676429,
             "language": "Ruby",
             "last_commit": "2021-07-19T15:08:26Z",
             "owner": "weathermen",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38581822,
             "language": "Python",
             "last_commit": "2020-03-30T20:15:59Z",
             "owner": "jaywink",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237399482,
             "language": "Java",
             "last_commit": "2026-07-27T08:02:13Z",
             "owner": "xwiki-contrib",
@@ -155,6 +165,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 194567463,
                 "language": "Ruby",
                 "last_commit": "2026-07-27T15:08:00Z",
                 "owner": "hometown-fork",
@@ -163,12 +174,6 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "GotoSocial",
-          "description": "fast and efficient ActivityPub server written in Golang, still in alpha",
-          "children": []
         }
       ],
       "title": "Applications"
@@ -183,6 +188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2722709,
             "language": "PHP",
             "last_commit": "2026-08-17T17:02:57Z",
             "owner": "friendica",
@@ -197,6 +203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2722709,
             "language": "PHP",
             "last_commit": "2026-08-17T17:02:57Z",
             "owner": "friendica",
@@ -211,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2826715,
             "language": "HTML",
             "last_commit": "2023-01-30T19:49:21Z",
             "owner": "pubsubhubbub",
@@ -225,6 +233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150330160,
             "language": "Go",
             "last_commit": "2019-03-07T02:41:30Z",
             "owner": "pubcast",
@@ -239,6 +248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137607267,
             "language": "Python",
             "last_commit": "2022-12-08T03:14:56Z",
             "owner": "autogestion",
@@ -248,31 +258,12 @@
         }
       ],
       "title": "Protocols"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Activitypub"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "Meetups"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "Slides"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:18:12.413Z",
+    "last_updated": "2026-08-19T12:26:54.806Z",
     "original_repository": "emilebosch/awesome-fediverse",
+    "original_repository_id": 194434451,
     "original_repository_sha": "229d1fe2d8721c27dae0706d709a6314caffa593",
     "enhanced_repository": "enhansome/enhansome-fediverse",
     "enhanced_repository_description": null,
