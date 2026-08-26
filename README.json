@@ -15,7 +15,7 @@
             "last_commit": "2024-04-26T15:47:23Z",
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12102
+            "stars": 12103
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-11-25T10:18:03Z",
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5629
+            "stars": 5630
           }
         },
         {
@@ -190,10 +190,10 @@
             "archived": false,
             "id": 2722709,
             "language": "PHP",
-            "last_commit": "2026-08-24T09:08:17Z",
+            "last_commit": "2026-08-26T04:18:00Z",
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1684
+            "stars": 1685
           }
         },
         {
@@ -205,10 +205,10 @@
             "archived": false,
             "id": 2722709,
             "language": "PHP",
-            "last_commit": "2026-08-24T09:08:17Z",
+            "last_commit": "2026-08-26T04:18:00Z",
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1684
+            "stars": 1685
           }
         },
         {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:49.555Z",
+    "last_updated": "2026-08-26T04:19:05.548Z",
     "original_repository": "emilebosch/awesome-fediverse",
     "original_repository_id": 194434451,
     "original_repository_sha": "229d1fe2d8721c27dae0706d709a6314caffa593",
