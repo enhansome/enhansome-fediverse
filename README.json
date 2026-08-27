@@ -190,7 +190,7 @@
             "archived": false,
             "id": 2722709,
             "language": "PHP",
-            "last_commit": "2026-08-26T04:18:00Z",
+            "last_commit": "2026-08-27T05:42:40Z",
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1685
@@ -205,7 +205,7 @@
             "archived": false,
             "id": 2722709,
             "language": "PHP",
-            "last_commit": "2026-08-26T04:18:00Z",
+            "last_commit": "2026-08-27T05:42:40Z",
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1685
@@ -261,9 +261,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:19:05.548Z",
-    "original_repository": "emilebosch/awesome-fediverse",
-    "original_repository_id": 194434451,
+    "last_updated": "2026-08-27T11:37:38.047Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 194434451,
+      "language": null,
+      "last_commit": "2024-02-19T21:17:34Z",
+      "owner": "emilebosch",
+      "repo": "awesome-fediverse",
+      "stars": 640
+    },
     "original_repository_sha": "229d1fe2d8721c27dae0706d709a6314caffa593",
     "enhanced_repository": "enhansome/enhansome-fediverse",
     "enhanced_repository_description": null,
