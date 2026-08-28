@@ -16,7 +16,8 @@
             "owner": "matrix-org",
             "repo": "synapse",
             "stars": 12103
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "matrix-org",
             "repo": "dendrite",
             "stars": 5630
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jointakahe",
             "repo": "takahe",
             "stars": 1172
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "yukimochi",
             "repo": "Activity-Relay",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "benbrown",
             "repo": "shuttlecraft",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "davecheney",
             "repo": "pub",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Gargron",
             "repo": "cobalt",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "weathermen",
             "repo": "soundstorm",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "jaywink",
             "repo": "social-relay",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "xwiki-contrib",
             "repo": "application-activitypub",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "group",
@@ -171,7 +181,8 @@
                 "owner": "hometown-fork",
                 "repo": "hometown",
                 "stars": 819
-              }
+              },
+              "first_seen": "2026-08-28T15:37:37.202Z"
             }
           ]
         }
@@ -190,11 +201,12 @@
             "archived": false,
             "id": 2722709,
             "language": "PHP",
-            "last_commit": "2026-08-27T05:42:40Z",
+            "last_commit": "2026-08-27T15:31:05Z",
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1685
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -205,11 +217,12 @@
             "archived": false,
             "id": 2722709,
             "language": "PHP",
-            "last_commit": "2026-08-27T05:42:40Z",
+            "last_commit": "2026-08-27T15:31:05Z",
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1685
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -223,8 +236,9 @@
             "last_commit": "2023-01-30T19:49:21Z",
             "owner": "pubsubhubbub",
             "repo": "PubSubHubbub",
-            "stars": 623
-          }
+            "stars": 622
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -239,7 +253,8 @@
             "owner": "pubcast",
             "repo": "pubcast",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         },
         {
           "node_type": "item",
@@ -254,14 +269,15 @@
             "owner": "autogestion",
             "repo": "pubgate",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T15:37:37.202Z"
         }
       ],
       "title": "Protocols"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:34:04.168Z",
+    "last_updated": "2026-08-28T15:37:37.202Z",
     "original_repository_info": {
       "archived": false,
       "id": 194434451,
