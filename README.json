@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Synapse: Matrix homeserver written in Python/Twisted.",
+            "homepage": "https://matrix-org.github.io/synapse",
             "id": 22844864,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-26T15:47:23Z",
+            "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12103
+            "stars": 12104,
+            "topics": [
+              "matrix-org",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -26,12 +34,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
+            "homepage": "https://matrix-org.github.io/dendrite/",
             "id": 79585104,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-25T10:18:03Z",
+            "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5630
+            "stars": 5630,
+            "topics": [
+              "dendrite",
+              "golang",
+              "hacktoberfest",
+              "matrix",
+              "matrix-homeserver",
+              "matrix-org"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ActivityPub/Fediverse server",
+            "homepage": null,
             "id": 562269750,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-28T13:32:13Z",
+            "open_issues": 83,
             "owner": "jointakahe",
             "repo": "takahe",
-            "stars": 1172
+            "stars": 1173,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -58,12 +83,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another powerful customizable ActivityPub relay server written in Go.",
+            "homepage": "https://relay.toot.yukimochi.jp/",
             "id": 155072281,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-28T14:29:19Z",
+            "open_issues": 19,
             "owner": "yukimochi",
             "repo": "Activity-Relay",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "activitypub",
+              "golang",
+              "mastodon",
+              "misskey"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -74,12 +109,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a single user activitypub server - join the federation!",
+            "homepage": "https://shuttlecraft.net",
             "id": 570962490,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-28T04:34:52Z",
+            "open_issues": 50,
             "owner": "benbrown",
             "repo": "shuttlecraft",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "activitypub",
+              "benbrown",
+              "blogging",
+              "fediverse",
+              "indieweb",
+              "microblogging",
+              "rss",
+              "socialmedia"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -90,12 +139,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "pub, a tiny ActivityPub to Mastodon bridge",
+            "homepage": null,
             "id": 568643617,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-03-31T08:37:16Z",
+            "open_issues": 7,
             "owner": "davecheney",
             "repo": "pub",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "activitypub",
+              "fediverse",
+              "mastodon"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -106,12 +164,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source self-hosted YouTube alternative. Subscribe to other users on other servers using ActivityPub. Reduced bandwidth costs for server owners via WebTorrent.",
+            "homepage": null,
             "id": 108020335,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-10-31T21:23:43Z",
+            "open_issues": 2,
             "owner": "Gargron",
             "repo": "cobalt",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "activitypub",
+              "webtorrent"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -122,12 +188,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Federated Social Audio Platform",
+            "homepage": "https://docs.soundstorm.social",
             "id": 161676429,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2021-07-19T15:08:26Z",
+            "open_issues": 0,
             "owner": "weathermen",
             "repo": "soundstorm",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "activity-stream",
+              "activitypub",
+              "audio",
+              "decentralized",
+              "distributed",
+              "docker",
+              "federated",
+              "gnu-social",
+              "mastodon",
+              "music",
+              "postgresql",
+              "redis",
+              "ruby-on-rails",
+              "social-network",
+              "webfinger"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -138,12 +225,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Public post relay for the Diaspora federated social network protocol",
+            "homepage": "https://git.feneas.org/jaywink/social-relay",
             "id": 38581822,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2020-03-30T20:15:59Z",
+            "open_issues": 15,
             "owner": "jaywink",
             "repo": "social-relay",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "diaspora",
+              "federation",
+              "relay",
+              "social-networks"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -154,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ActivityPub implementation for XWiki",
+            "homepage": "https://extensions.xwiki.org/xwiki/bin/view/Extension/ActivityPub%20Application/",
             "id": 237399482,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-27T08:02:13Z",
+            "open_issues": 4,
             "owner": "xwiki-contrib",
             "repo": "application-activitypub",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -175,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A supported fork of Mastodon that provides local posting and a wider range of content types.",
+                "homepage": null,
                 "id": 194567463,
                 "language": "Ruby",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-27T15:08:00Z",
+                "open_issues": 121,
                 "owner": "hometown-fork",
                 "repo": "hometown",
-                "stars": 819
+                "stars": 819,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:37.202Z"
             }
@@ -199,12 +306,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Friendica Communications Platform",
+            "homepage": "https://friendi.ca",
             "id": 2722709,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T15:31:05Z",
+            "open_issues": 1443,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1685
+            "stars": 1685,
+            "topics": [
+              "federation",
+              "fediverse",
+              "hacktoberfest",
+              "mariadb",
+              "php",
+              "self-hosted",
+              "social-media",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -215,12 +336,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Friendica Communications Platform",
+            "homepage": "https://friendi.ca",
             "id": 2722709,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T15:31:05Z",
+            "open_issues": 1443,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1685
+            "stars": 1685,
+            "topics": [
+              "federation",
+              "fediverse",
+              "hacktoberfest",
+              "mariadb",
+              "php",
+              "self-hosted",
+              "social-media",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -231,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The PubSubHubbub protocol specification.",
+            "homepage": "http://pubsubhubbub.github.io/PubSubHubbub",
             "id": 2826715,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-01-30T19:49:21Z",
+            "open_issues": 9,
             "owner": "pubsubhubbub",
             "repo": "PubSubHubbub",
-            "stars": 622
+            "stars": 622,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -247,12 +387,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " An experimental ActivityPub based podcasting platform.",
+            "homepage": "https://pubcast.pub/",
             "id": 150330160,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2019-03-07T02:41:30Z",
+            "open_issues": 8,
             "owner": "pubcast",
             "repo": "pubcast",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "activitypub",
+              "fediverse",
+              "golang",
+              "podcasts"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         },
@@ -263,12 +413,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight ActivityPub federator",
+            "homepage": null,
             "id": 137607267,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-12-08T03:14:56Z",
+            "open_issues": 18,
             "owner": "autogestion",
             "repo": "pubgate",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "activitypub",
+              "activityweb",
+              "asyncio",
+              "cms",
+              "decentralized",
+              "pubgate",
+              "sanic",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
         }
@@ -277,15 +441,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:37:37.202Z",
+    "last_updated": "2026-08-29T04:41:12.056Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated, collaborative list of awesome Fediverse resources",
+      "homepage": null,
       "id": 194434451,
       "language": null,
+      "license": null,
       "last_commit": "2024-02-19T21:17:34Z",
+      "open_issues": 10,
       "owner": "emilebosch",
       "repo": "awesome-fediverse",
-      "stars": 640
+      "stars": 640,
+      "topics": [
+        "activitypub",
+        "awesome-list",
+        "diaspora",
+        "fediverse",
+        "mastodon",
+        "prismo"
+      ]
     },
     "original_repository_sha": "229d1fe2d8721c27dae0706d709a6314caffa593",
     "enhanced_repository": "enhansome/enhansome-fediverse",
