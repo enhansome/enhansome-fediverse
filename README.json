@@ -286,7 +286,7 @@
                 "open_issues": 121,
                 "owner": "hometown-fork",
                 "repo": "hometown",
-                "stars": 819,
+                "stars": 820,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:37.202Z"
@@ -311,8 +311,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-27T15:31:05Z",
-            "open_issues": 1443,
+            "last_commit": "2026-08-30T07:00:43Z",
+            "open_issues": 1436,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1685,
@@ -341,8 +341,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-27T15:31:05Z",
-            "open_issues": 1443,
+            "last_commit": "2026-08-30T07:00:43Z",
+            "open_issues": 1436,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1685,
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:23:23.935Z",
+    "last_updated": "2026-08-30T09:26:42.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
