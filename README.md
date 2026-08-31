@@ -18,7 +18,7 @@ These products rule the fediverse.
 * [Synapse](https://github.com/matrix-org/synapse/) ⚠️ Archived - Synapse is an open-source Matrix homeserver written in python and twisted
 * [Dendrite](https://github.com/matrix-org/dendrite/) ⚠️ Archived - Dendrite is a open-source second-generation Matrix homeserver written in Go!
 * [Takahē](https://github.com/jointakahe/takahe) ⭐ 1,173 | 🐛 83 | 🌐 Python | 📅 2024-08-28 - A *beta* Fediverse server for microblogging/"toots", with support for multiple domains and multiple identities
-* [Activity Relay](https://github.com/yukimochi/Activity-Relay) ⭐ 331 | 🐛 19 | 🌐 Go | 📅 2026-07-28 - Activity Relay is a powerful customizable ActivityPub relay server written in Go.
+* [Activity Relay](https://github.com/yukimochi/Activity-Relay) ⭐ 332 | 🐛 19 | 🌐 Go | 📅 2026-07-28 - Activity Relay is a powerful customizable ActivityPub relay server written in Go.
 * [Shuttlecraft](https://github.com/benbrown/shuttlecraft) ⭐ 271 | 🐛 50 | 🌐 JavaScript | 📅 2024-05-28 - an "easy" way to participate in the ActivityPub "Fediverse" and other indie web protocols like RSS
 * [pub](https://github.com/davecheney/pub) ⚠️ Archived - an ActivityPub host indented for a single actor. To interact with ActivityPub, pub implements the Mastodon api for use with various apps.
 * [Cobalt](https://github.com/Gargron/cobalt) ⭐ 95 | 🐛 2 | 🌐 Ruby | 📅 2017-10-31 - Ruby Video platform by same owner as Mastodon (hasn't been updated in at least 5 years)
@@ -26,7 +26,7 @@ These products rule the fediverse.
 * [Social Relay](https://github.com/jaywink/social-relay) ⚠️ Archived - Social Relay is a Public post relay for Diaspora, writin in python. (Archived Project)
 * [ActivityPub for xwiki](https://github.com/xwiki-contrib/application-activitypub) ⭐ 19 | 🐛 4 | 🌐 Java | 📅 2026-07-27 - An ActivityPub plugin for xwiki
 * [Mastodon](https://joinmastodon.org) - Ruby based twitter clone - Follow friends and discover new ones among more than 2M people. Publish anything you want: links, pictures, text, video. All on a platform that is community-owned and ad-free.
-  * [Hometown](https://github.com/hometown-fork/hometown) ⭐ 820 | 🐛 121 | 🌐 Ruby | 📅 2026-07-27 - a lightweight fork of Mastodon that supports local-only toots and more content types
+  * [Hometown](https://github.com/hometown-fork/hometown) ⭐ 821 | 🐛 121 | 🌐 Ruby | 📅 2026-07-27 - a lightweight fork of Mastodon that supports local-only toots and more content types
   * [Mastodon Glitch Edition (glitch-soc)](https://glitch-soc.github.io/docs/) - a Mastodon fork with additional features such as rich text formatting and local-only toots
 * [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
 * [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software.
@@ -70,8 +70,8 @@ These products rule the fediverse.
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
-* [Friendica](https://github.com/friendica/friendica/wiki/Protocol) ⭐ 1,685 | 🐛 1,436 | 🌐 PHP | 📅 2026-08-30 - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
-* [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf) ⭐ 1,685 | 🐛 1,436 | 🌐 PHP | 📅 2026-08-30  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
+* [Friendica](https://github.com/friendica/friendica/wiki/Protocol) ⭐ 1,685 | 🐛 1,435 | 🌐 PHP | 📅 2026-08-31 - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
+* [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf) ⭐ 1,685 | 🐛 1,435 | 🌐 PHP | 📅 2026-08-31  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
 * [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) ⭐ 622 | 🐛 9 | 🌐 HTML | 📅 2023-01-30 - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
 * [Pubcast](https://github.com/pubcast/pubcast) ⭐ 116 | 🐛 8 | 🌐 Go | 📅 2019-03-07 - An experimental ActivityPub based podcasting platform
 * [Pubgate](https://github.com/autogestion/pubgate) ⭐ 115 | 🐛 18 | 🌐 Python | 📅 2022-12-08 - Lightweight (Gotta Go Fast) ActivityPub federator
@@ -138,4 +138,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

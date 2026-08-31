@@ -92,7 +92,7 @@
             "open_issues": 19,
             "owner": "yukimochi",
             "repo": "Activity-Relay",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "activitypub",
               "golang",
@@ -286,7 +286,7 @@
                 "open_issues": 121,
                 "owner": "hometown-fork",
                 "repo": "hometown",
-                "stars": 820,
+                "stars": 821,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:37.202Z"
@@ -311,8 +311,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T07:00:43Z",
-            "open_issues": 1436,
+            "last_commit": "2026-08-31T06:32:14Z",
+            "open_issues": 1435,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1685,
@@ -341,8 +341,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T07:00:43Z",
-            "open_issues": 1436,
+            "last_commit": "2026-08-31T06:32:14Z",
+            "open_issues": 1435,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1685,
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:26:42.738Z",
+    "last_updated": "2026-08-31T10:02:45.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
