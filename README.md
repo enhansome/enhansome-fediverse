@@ -70,8 +70,8 @@ These products rule the fediverse.
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
-* [Friendica](https://github.com/friendica/friendica/wiki/Protocol) ⭐ 1,685 | 🐛 1,438 | 🌐 PHP | 📅 2026-09-03 - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
-* [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf) ⭐ 1,685 | 🐛 1,438 | 🌐 PHP | 📅 2026-09-03  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
+* [Friendica](https://github.com/friendica/friendica/wiki/Protocol) ⭐ 1,687 | 🐛 1,434 | 🌐 PHP | 📅 2026-09-04 - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
+* [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf) ⭐ 1,687 | 🐛 1,434 | 🌐 PHP | 📅 2026-09-04  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
 * [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) ⭐ 622 | 🐛 9 | 🌐 HTML | 📅 2023-01-30 - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
 * [Pubcast](https://github.com/pubcast/pubcast) ⭐ 116 | 🐛 8 | 🌐 Go | 📅 2019-03-07 - An experimental ActivityPub based podcasting platform
 * [Pubgate](https://github.com/autogestion/pubgate) ⭐ 115 | 🐛 18 | 🌐 Python | 📅 2022-12-08 - Lightweight (Gotta Go Fast) ActivityPub federator
@@ -138,4 +138,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
