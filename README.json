@@ -311,8 +311,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T06:50:44Z",
-            "open_issues": 1431,
+            "last_commit": "2026-09-07T21:44:03Z",
+            "open_issues": 1429,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1689,
@@ -341,8 +341,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T06:50:44Z",
-            "open_issues": 1431,
+            "last_commit": "2026-09-07T21:44:03Z",
+            "open_issues": 1429,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1689,
@@ -375,7 +375,7 @@
             "open_issues": 9,
             "owner": "pubsubhubbub",
             "repo": "PubSubHubbub",
-            "stars": 622,
+            "stars": 623,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:36:08.041Z",
+    "last_updated": "2026-09-08T08:18:45.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
