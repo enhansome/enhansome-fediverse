@@ -19,7 +19,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12099,
+            "stars": 12097,
             "topics": [
               "matrix-org",
               "python"
@@ -256,7 +256,7 @@
             "id": 237399482,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-07-27T08:02:13Z",
+            "last_commit": "2026-09-24T08:32:39Z",
             "open_issues": 4,
             "owner": "xwiki-contrib",
             "repo": "application-activitypub",
@@ -282,11 +282,11 @@
                 "id": 194567463,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-20T17:37:30Z",
-                "open_issues": 123,
+                "last_commit": "2026-09-23T18:23:50Z",
+                "open_issues": 121,
                 "owner": "hometown-fork",
                 "repo": "hometown",
-                "stars": 824,
+                "stars": 823,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:37.202Z"
@@ -311,11 +311,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T06:56:23Z",
-            "open_issues": 1393,
+            "last_commit": "2026-09-23T20:41:21Z",
+            "open_issues": 1395,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1689,
+            "stars": 1690,
             "topics": [
               "federation",
               "fediverse",
@@ -341,11 +341,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T06:56:23Z",
-            "open_issues": 1393,
+            "last_commit": "2026-09-23T20:41:21Z",
+            "open_issues": 1395,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1689,
+            "stars": 1690,
             "topics": [
               "federation",
               "fediverse",
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:48:20.520Z",
+    "last_updated": "2026-09-24T08:43:14.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",

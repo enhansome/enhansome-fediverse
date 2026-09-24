@@ -24,9 +24,9 @@ These products rule the fediverse.
 * [Cobalt](https://github.com/Gargron/cobalt) ⭐ 95 | 🐛 2 | 🌐 Ruby | 📅 2017-10-31 - Ruby Video platform by same owner as Mastodon (hasn't been updated in at least 5 years)
 * [Soundstorm](https://github.com/weathermen/soundstorm.git) ⚠️ Archived Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
 * [Social Relay](https://github.com/jaywink/social-relay) ⚠️ Archived - Social Relay is a Public post relay for Diaspora, writin in python. (Archived Project)
-* [ActivityPub for xwiki](https://github.com/xwiki-contrib/application-activitypub) ⭐ 19 | 🐛 4 | 🌐 Java | 📅 2026-07-27 - An ActivityPub plugin for xwiki
+* [ActivityPub for xwiki](https://github.com/xwiki-contrib/application-activitypub) ⭐ 19 | 🐛 4 | 🌐 Java | 📅 2026-09-24 - An ActivityPub plugin for xwiki
 * [Mastodon](https://joinmastodon.org) - Ruby based twitter clone - Follow friends and discover new ones among more than 2M people. Publish anything you want: links, pictures, text, video. All on a platform that is community-owned and ad-free.
-  * [Hometown](https://github.com/hometown-fork/hometown) ⭐ 824 | 🐛 123 | 🌐 Ruby | 📅 2026-09-20 - a lightweight fork of Mastodon that supports local-only toots and more content types
+  * [Hometown](https://github.com/hometown-fork/hometown) ⭐ 823 | 🐛 121 | 🌐 Ruby | 📅 2026-09-23 - a lightweight fork of Mastodon that supports local-only toots and more content types
   * [Mastodon Glitch Edition (glitch-soc)](https://glitch-soc.github.io/docs/) - a Mastodon fork with additional features such as rich text formatting and local-only toots
 * [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
 * [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software.
@@ -70,8 +70,8 @@ These products rule the fediverse.
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
-* [Friendica](https://github.com/friendica/friendica/wiki/Protocol) ⭐ 1,689 | 🐛 1,393 | 🌐 PHP | 📅 2026-09-23 - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
-* [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf) ⭐ 1,689 | 🐛 1,393 | 🌐 PHP | 📅 2026-09-23  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
+* [Friendica](https://github.com/friendica/friendica/wiki/Protocol) ⭐ 1,690 | 🐛 1,395 | 🌐 PHP | 📅 2026-09-23 - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
+* [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf) ⭐ 1,690 | 🐛 1,395 | 🌐 PHP | 📅 2026-09-23  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
 * [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) ⭐ 620 | 🐛 9 | 🌐 HTML | 📅 2023-01-30 - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
 * [Pubcast](https://github.com/pubcast/pubcast) ⭐ 116 | 🐛 8 | 🌐 Go | 📅 2019-03-07 - An experimental ActivityPub based podcasting platform
 * [Pubgate](https://github.com/autogestion/pubgate) ⭐ 115 | 🐛 18 | 🌐 Python | 📅 2022-12-08 - Lightweight (Gotta Go Fast) ActivityPub federator
@@ -138,4 +138,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
