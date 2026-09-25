@@ -256,7 +256,7 @@
             "id": 237399482,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-24T08:32:39Z",
+            "last_commit": "2026-09-24T11:57:46Z",
             "open_issues": 4,
             "owner": "xwiki-contrib",
             "repo": "application-activitypub",
@@ -312,7 +312,7 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-23T20:41:21Z",
-            "open_issues": 1395,
+            "open_issues": 1399,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1690,
@@ -342,7 +342,7 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-23T20:41:21Z",
-            "open_issues": 1395,
+            "open_issues": 1399,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1690,
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T08:43:14.417Z",
+    "last_updated": "2026-09-25T09:03:38.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
