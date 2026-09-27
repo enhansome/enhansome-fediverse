@@ -19,7 +19,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12097,
+            "stars": 12096,
             "topics": [
               "matrix-org",
               "python"
@@ -43,7 +43,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5625,
+            "stars": 5624,
             "topics": [
               "dendrite",
               "golang",
@@ -311,7 +311,7 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-26T07:50:43Z",
+            "last_commit": "2026-09-26T10:48:07Z",
             "open_issues": 1401,
             "owner": "friendica",
             "repo": "friendica",
@@ -341,7 +341,7 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-26T07:50:43Z",
+            "last_commit": "2026-09-26T10:48:07Z",
             "open_issues": 1401,
             "owner": "friendica",
             "repo": "friendica",
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T08:48:46.405Z",
+    "last_updated": "2026-09-27T09:29:45.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
