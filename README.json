@@ -43,7 +43,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5625,
+            "stars": 5624,
             "topics": [
               "dendrite",
               "golang",
@@ -71,7 +71,7 @@
             "open_issues": 83,
             "owner": "jointakahe",
             "repo": "takahe",
-            "stars": 1172,
+            "stars": 1173,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
@@ -92,7 +92,7 @@
             "open_issues": 19,
             "owner": "yukimochi",
             "repo": "Activity-Relay",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "activitypub",
               "golang",
@@ -257,7 +257,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-09-24T11:57:46Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "xwiki-contrib",
             "repo": "application-activitypub",
             "stars": 19,
@@ -311,8 +311,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-04T09:33:13Z",
-            "open_issues": 1381,
+            "last_commit": "2026-10-04T19:45:00Z",
+            "open_issues": 1376,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1693,
@@ -341,8 +341,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-04T09:33:13Z",
-            "open_issues": 1381,
+            "last_commit": "2026-10-04T19:45:00Z",
+            "open_issues": 1376,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1693,
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:03:16.887Z",
+    "last_updated": "2026-10-05T10:48:14.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
