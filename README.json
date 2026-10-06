@@ -19,7 +19,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12096,
+            "stars": 12095,
             "topics": [
               "matrix-org",
               "python"
@@ -282,8 +282,8 @@
                 "id": 194567463,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-28T16:15:46Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-05T18:22:48Z",
+                "open_issues": 119,
                 "owner": "hometown-fork",
                 "repo": "hometown",
                 "stars": 825,
@@ -311,11 +311,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-04T19:45:00Z",
-            "open_issues": 1376,
+            "last_commit": "2026-10-06T06:17:59Z",
+            "open_issues": 1373,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1693,
+            "stars": 1691,
             "topics": [
               "federation",
               "fediverse",
@@ -341,11 +341,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-04T19:45:00Z",
-            "open_issues": 1376,
+            "last_commit": "2026-10-06T06:17:59Z",
+            "open_issues": 1373,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1693,
+            "stars": 1691,
             "topics": [
               "federation",
               "fediverse",
@@ -375,7 +375,7 @@
             "open_issues": 9,
             "owner": "pubsubhubbub",
             "repo": "PubSubHubbub",
-            "stars": 621,
+            "stars": 622,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T10:48:14.062Z",
+    "last_updated": "2026-10-06T10:20:01.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
