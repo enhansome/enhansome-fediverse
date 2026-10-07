@@ -19,7 +19,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12095,
+            "stars": 12094,
             "topics": [
               "matrix-org",
               "python"
@@ -43,7 +43,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5624,
+            "stars": 5623,
             "topics": [
               "dendrite",
               "golang",
@@ -71,7 +71,7 @@
             "open_issues": 83,
             "owner": "jointakahe",
             "repo": "takahe",
-            "stars": 1173,
+            "stars": 1174,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
@@ -286,7 +286,7 @@
                 "open_issues": 119,
                 "owner": "hometown-fork",
                 "repo": "hometown",
-                "stars": 825,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:37.202Z"
@@ -315,7 +315,7 @@
             "open_issues": 1373,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1691,
+            "stars": 1690,
             "topics": [
               "federation",
               "fediverse",
@@ -345,7 +345,7 @@
             "open_issues": 1373,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1691,
+            "stars": 1690,
             "topics": [
               "federation",
               "fediverse",
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:09:07.699Z",
+    "last_updated": "2026-10-07T10:32:05.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
@@ -453,7 +453,7 @@
       "open_issues": 10,
       "owner": "emilebosch",
       "repo": "awesome-fediverse",
-      "stars": 643,
+      "stars": 642,
       "topics": [
         "activitypub",
         "awesome-list",
