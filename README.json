@@ -43,7 +43,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5623,
+            "stars": 5622,
             "topics": [
               "dendrite",
               "golang",
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:32:05.785Z",
+    "last_updated": "2026-10-08T10:53:07.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
