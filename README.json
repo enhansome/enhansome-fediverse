@@ -19,7 +19,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12093,
+            "stars": 12092,
             "topics": [
               "matrix-org",
               "python"
@@ -118,7 +118,7 @@
             "open_issues": 50,
             "owner": "benbrown",
             "repo": "shuttlecraft",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "activitypub",
               "benbrown",
@@ -148,7 +148,7 @@
             "open_issues": 7,
             "owner": "davecheney",
             "repo": "pub",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "activitypub",
               "fediverse",
@@ -311,8 +311,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T07:18:17Z",
-            "open_issues": 1373,
+            "last_commit": "2026-10-10T10:20:32Z",
+            "open_issues": 1377,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1691,
@@ -341,8 +341,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T07:18:17Z",
-            "open_issues": 1373,
+            "last_commit": "2026-10-10T10:20:32Z",
+            "open_issues": 1377,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1691,
@@ -396,7 +396,7 @@
             "open_issues": 8,
             "owner": "pubcast",
             "repo": "pubcast",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "activitypub",
               "fediverse",
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:05:55.716Z",
+    "last_updated": "2026-10-11T10:16:43.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
@@ -453,7 +453,7 @@
       "open_issues": 10,
       "owner": "emilebosch",
       "repo": "awesome-fediverse",
-      "stars": 642,
+      "stars": 643,
       "topics": [
         "activitypub",
         "awesome-list",

@@ -19,7 +19,7 @@ These products rule the fediverse.
 * [Dendrite](https://github.com/matrix-org/dendrite/) ⚠️ Archived - Dendrite is a open-source second-generation Matrix homeserver written in Go!
 * [Takahē](https://github.com/jointakahe/takahe) ⭐ 1,174 | 🐛 83 | 🌐 Python | 📅 2024-08-28 - A *beta* Fediverse server for microblogging/"toots", with support for multiple domains and multiple identities
 * [Activity Relay](https://github.com/yukimochi/Activity-Relay) ⭐ 333 | 🐛 19 | 🌐 Go | 📅 2026-10-09 - Activity Relay is a powerful customizable ActivityPub relay server written in Go.
-* [Shuttlecraft](https://github.com/benbrown/shuttlecraft) ⭐ 271 | 🐛 50 | 🌐 JavaScript | 📅 2024-05-28 - an "easy" way to participate in the ActivityPub "Fediverse" and other indie web protocols like RSS
+* [Shuttlecraft](https://github.com/benbrown/shuttlecraft) ⭐ 272 | 🐛 50 | 🌐 JavaScript | 📅 2024-05-28 - an "easy" way to participate in the ActivityPub "Fediverse" and other indie web protocols like RSS
 * [pub](https://github.com/davecheney/pub) ⚠️ Archived - an ActivityPub host indented for a single actor. To interact with ActivityPub, pub implements the Mastodon api for use with various apps.
 * [Cobalt](https://github.com/Gargron/cobalt) ⭐ 95 | 🐛 2 | 🌐 Ruby | 📅 2017-10-31 - Ruby Video platform by same owner as Mastodon (hasn't been updated in at least 5 years)
 * [Soundstorm](https://github.com/weathermen/soundstorm.git) ⚠️ Archived Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
@@ -70,10 +70,10 @@ These products rule the fediverse.
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
-* [Friendica](https://github.com/friendica/friendica/wiki/Protocol) ⭐ 1,691 | 🐛 1,373 | 🌐 PHP | 📅 2026-10-10 - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
-* [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf) ⭐ 1,691 | 🐛 1,373 | 🌐 PHP | 📅 2026-10-10  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
+* [Friendica](https://github.com/friendica/friendica/wiki/Protocol) ⭐ 1,691 | 🐛 1,377 | 🌐 PHP | 📅 2026-10-10 - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
+* [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf) ⭐ 1,691 | 🐛 1,377 | 🌐 PHP | 📅 2026-10-10  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
 * [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) ⭐ 622 | 🐛 9 | 🌐 HTML | 📅 2023-01-30 - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
-* [Pubcast](https://github.com/pubcast/pubcast) ⭐ 116 | 🐛 8 | 🌐 Go | 📅 2019-03-07 - An experimental ActivityPub based podcasting platform
+* [Pubcast](https://github.com/pubcast/pubcast) ⭐ 117 | 🐛 8 | 🌐 Go | 📅 2019-03-07 - An experimental ActivityPub based podcasting platform
 * [Pubgate](https://github.com/autogestion/pubgate) ⭐ 115 | 🐛 18 | 🌐 Python | 📅 2022-12-08 - Lightweight (Gotta Go Fast) ActivityPub federator
 * [ActivityPub](https://www.w3.org/TR/2018/REC-activitypub-20180123/) - The ActivityPub protocol is a decentralized social networking protocol based upon the \[ActivityStreams] 2.0 data format. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content.
 * [Litepub](https://litepub.social/litepub/) - LitePub is a suite of protocols which provide a federated social network. They constitute various profiles of the ActivityPub specification. It is intended that LitePub implementations provide compatibility with ActivityPub, but there are some core behavioral differences.
@@ -138,4 +138,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
