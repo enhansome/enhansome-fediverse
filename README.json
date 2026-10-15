@@ -19,7 +19,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12089,
+            "stars": 12091,
             "topics": [
               "matrix-org",
               "python"
@@ -282,7 +282,7 @@
                 "id": 194567463,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-05T18:22:48Z",
+                "last_commit": "2026-10-14T19:54:38Z",
                 "open_issues": 119,
                 "owner": "hometown-fork",
                 "repo": "hometown",
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:59:15.838Z",
+    "last_updated": "2026-10-15T08:33:26.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
