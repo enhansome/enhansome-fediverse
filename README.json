@@ -19,7 +19,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12091,
+            "stars": 12090,
             "topics": [
               "matrix-org",
               "python"
@@ -43,7 +43,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5620,
+            "stars": 5619,
             "topics": [
               "dendrite",
               "golang",
@@ -286,7 +286,7 @@
                 "open_issues": 119,
                 "owner": "hometown-fork",
                 "repo": "hometown",
-                "stars": 824,
+                "stars": 823,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:37.202Z"
@@ -311,11 +311,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T04:48:32Z",
-            "open_issues": 1378,
+            "last_commit": "2026-10-16T06:46:23Z",
+            "open_issues": 1375,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1693,
+            "stars": 1694,
             "topics": [
               "federation",
               "fediverse",
@@ -341,11 +341,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T04:48:32Z",
-            "open_issues": 1378,
+            "last_commit": "2026-10-16T06:46:23Z",
+            "open_issues": 1375,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1693,
+            "stars": 1694,
             "topics": [
               "federation",
               "fediverse",
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T08:33:26.119Z",
+    "last_updated": "2026-10-16T08:27:45.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
