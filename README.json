@@ -43,7 +43,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5620,
+            "stars": 5619,
             "topics": [
               "dendrite",
               "golang",
@@ -286,7 +286,7 @@
                 "open_issues": 120,
                 "owner": "hometown-fork",
                 "repo": "hometown",
-                "stars": 822,
+                "stars": 819,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:37.202Z"
@@ -311,8 +311,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T08:53:43Z",
-            "open_issues": 1382,
+            "last_commit": "2026-10-27T15:47:13Z",
+            "open_issues": 1384,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1699,
@@ -341,8 +341,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T08:53:43Z",
-            "open_issues": 1382,
+            "last_commit": "2026-10-27T15:47:13Z",
+            "open_issues": 1384,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1699,
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:18:12.114Z",
+    "last_updated": "2026-10-28T09:58:56.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
