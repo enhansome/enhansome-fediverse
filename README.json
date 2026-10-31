@@ -19,7 +19,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12091,
+            "stars": 12090,
             "topics": [
               "matrix-org",
               "python"
@@ -43,7 +43,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5619,
+            "stars": 5620,
             "topics": [
               "dendrite",
               "golang",
@@ -286,7 +286,7 @@
                 "open_issues": 120,
                 "owner": "hometown-fork",
                 "repo": "hometown",
-                "stars": 819,
+                "stars": 820,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:37.202Z"
@@ -311,8 +311,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T06:22:21Z",
-            "open_issues": 1387,
+            "last_commit": "2026-10-31T08:36:51Z",
+            "open_issues": 1389,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1699,
@@ -341,8 +341,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T06:22:21Z",
-            "open_issues": 1387,
+            "last_commit": "2026-10-31T08:36:51Z",
+            "open_issues": 1389,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1699,
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:24:22.841Z",
+    "last_updated": "2026-10-31T09:54:57.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
@@ -453,7 +453,7 @@
       "open_issues": 10,
       "owner": "emilebosch",
       "repo": "awesome-fediverse",
-      "stars": 645,
+      "stars": 646,
       "topics": [
         "activitypub",
         "awesome-list",
