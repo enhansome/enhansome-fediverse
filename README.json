@@ -19,7 +19,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12090,
+            "stars": 12091,
             "topics": [
               "matrix-org",
               "python"
@@ -257,7 +257,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-09-24T11:57:46Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "xwiki-contrib",
             "repo": "application-activitypub",
             "stars": 19,
@@ -311,8 +311,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T08:36:51Z",
-            "open_issues": 1389,
+            "last_commit": "2026-11-01T09:13:07Z",
+            "open_issues": 1384,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1699,
@@ -341,8 +341,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T08:36:51Z",
-            "open_issues": 1389,
+            "last_commit": "2026-11-01T09:13:07Z",
+            "open_issues": 1384,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1699,
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:54:57.865Z",
+    "last_updated": "2026-11-01T10:45:50.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
