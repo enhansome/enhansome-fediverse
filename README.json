@@ -19,7 +19,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12092,
+            "stars": 12093,
             "topics": [
               "matrix-org",
               "python"
@@ -311,11 +311,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T06:18:02Z",
-            "open_issues": 1382,
+            "last_commit": "2026-11-03T05:37:43Z",
+            "open_issues": 1358,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1699,
+            "stars": 1700,
             "topics": [
               "federation",
               "fediverse",
@@ -341,11 +341,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T06:18:02Z",
-            "open_issues": 1382,
+            "last_commit": "2026-11-03T05:37:43Z",
+            "open_issues": 1358,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1699,
+            "stars": 1700,
             "topics": [
               "federation",
               "fediverse",
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T11:37:53.775Z",
+    "last_updated": "2026-11-03T11:16:11.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
