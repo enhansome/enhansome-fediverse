@@ -71,7 +71,7 @@
             "open_issues": 83,
             "owner": "jointakahe",
             "repo": "takahe",
-            "stars": 1172,
+            "stars": 1171,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:37.202Z"
@@ -173,7 +173,7 @@
             "open_issues": 2,
             "owner": "Gargron",
             "repo": "cobalt",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "activitypub",
               "webtorrent"
@@ -311,8 +311,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T20:11:21Z",
-            "open_issues": 1354,
+            "last_commit": "2026-11-09T10:31:49Z",
+            "open_issues": 1355,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1700,
@@ -341,8 +341,8 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T20:11:21Z",
-            "open_issues": 1354,
+            "last_commit": "2026-11-09T10:31:49Z",
+            "open_issues": 1355,
             "owner": "friendica",
             "repo": "friendica",
             "stars": 1700,
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T10:42:46.108Z",
+    "last_updated": "2026-11-09T12:01:26.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
