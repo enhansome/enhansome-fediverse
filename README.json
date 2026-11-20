@@ -19,7 +19,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12090,
+            "stars": 12088,
             "topics": [
               "matrix-org",
               "python"
@@ -43,7 +43,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5615,
+            "stars": 5613,
             "topics": [
               "dendrite",
               "golang",
@@ -92,7 +92,7 @@
             "open_issues": 19,
             "owner": "yukimochi",
             "repo": "Activity-Relay",
-            "stars": 332,
+            "stars": 331,
             "topics": [
               "activitypub",
               "golang",
@@ -283,7 +283,7 @@
                 "language": "Ruby",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-19T11:26:10Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "hometown-fork",
                 "repo": "hometown",
                 "stars": 820,
@@ -311,11 +311,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-19T07:58:52Z",
-            "open_issues": 1346,
+            "last_commit": "2026-11-20T12:04:11Z",
+            "open_issues": 1345,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1703,
+            "stars": 1704,
             "topics": [
               "federation",
               "fediverse",
@@ -341,11 +341,11 @@
             "id": 2722709,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-19T07:58:52Z",
-            "open_issues": 1346,
+            "last_commit": "2026-11-20T12:04:11Z",
+            "open_issues": 1345,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1703,
+            "stars": 1704,
             "topics": [
               "federation",
               "fediverse",
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:03:16.382Z",
+    "last_updated": "2026-11-20T12:05:32.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, collaborative list of awesome Fediverse resources",
