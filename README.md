@@ -26,7 +26,7 @@ These products rule the fediverse.
 * [Social Relay](https://github.com/jaywink/social-relay) ⚠️ Archived - Social Relay is a Public post relay for Diaspora, writin in python. (Archived Project)
 * [ActivityPub for xwiki](https://github.com/xwiki-contrib/application-activitypub) ⭐ 19 | 🐛 7 | 🌐 Java | 📅 2026-11-23 - An ActivityPub plugin for xwiki
 * [Mastodon](https://joinmastodon.org) - Ruby based twitter clone - Follow friends and discover new ones among more than 2M people. Publish anything you want: links, pictures, text, video. All on a platform that is community-owned and ad-free.
-  * [Hometown](https://github.com/hometown-fork/hometown) ⭐ 820 | 🐛 122 | 🌐 Ruby | 📅 2026-11-25 - a lightweight fork of Mastodon that supports local-only toots and more content types
+  * [Hometown](https://github.com/hometown-fork/hometown) ⭐ 820 | 🐛 120 | 🌐 Ruby | 📅 2026-11-25 - a lightweight fork of Mastodon that supports local-only toots and more content types
   * [Mastodon Glitch Edition (glitch-soc)](https://glitch-soc.github.io/docs/) - a Mastodon fork with additional features such as rich text formatting and local-only toots
 * [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
 * [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software.
@@ -138,4 +138,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
